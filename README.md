@@ -1,6 +1,7 @@
 # everythingAI
 A collection of resources for gaining knowledge and expertise in AI/ML (WIP)
 
+#### Table of Contents
 - [Introduction](#Introduction)
     * [Who this is for](#Who-is-this-for)
     * [How to use these resources](#How-to-use-these-resources)
