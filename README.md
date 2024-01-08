@@ -1,10 +1,10 @@
 # everythingAI
 A collection of resources for gaining knowledge in AI/ML (WIP)
 
-- [Introduction](#introduction)
-    * [Who this is for](###whothisisfor)
-    * [How to use these resources](###howtousetheseresources)
-- [Machine Learning Foundations](#machinelearningfoundations)
+- [Introduction](#Introduction)
+    * [Who this is for](#Who-is-this-for)
+    * [How to use these resources](#How-to-use-these-resources)
+- [Machine Learning Foundations](#Machine-Learning-Foundations)
 - [Deep Learning](#Deep-Learning)
 
 # Introduction
