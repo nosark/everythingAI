@@ -7,9 +7,9 @@ A collection of resources for gaining knowledge and expertise in AI/ML (WIP)
 - [Machine Learning Foundations](#Machine-Learning-Foundations)
 - [Deep Learning](#Deep-Learning)
    * [Deep Reinforcement Learning](#Deep-Reinforcement-Learning)
-      * [Online Resources](#Deep-Learning-Online-Resources)
+      * [Online Resources](#Online-Resources-DL)
          * [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/#)
-      * [Book Resources](#Deep-Learning-Book-Resources)
+      * [Book Resources](#Book-Resources-DL)
 - [Data Cleaning](#Data-Cleaning)
 
 # Introduction
