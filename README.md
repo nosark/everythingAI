@@ -8,7 +8,6 @@ A collection of resources for gaining knowledge and expertise in AI/ML (WIP)
 - [Deep Learning](#Deep-Learning)
    * [Deep Reinforcement Learning](#Deep-Reinforcement-Learning)
       * [Online Resources](#Online-Resources-DL)
-         * [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/#)
       * [Book Resources](#Book-Resources-DL)
 - [Data Cleaning](#Data-Cleaning)
 
@@ -77,7 +76,15 @@ Diam quis enim lobortis scelerisque fermentum dui faucibus in. Enim praesent ele
 Interdum velit euismod in pellentesque massa placerat. Mi proin sed libero enim sed faucibus turpis. Lacinia quis vel eros donec ac odio. Morbi tristique senectus et netus et malesuada fames. Tincidunt lobortis feugiat vivamus at augue eget. Lorem ipsum dolor sit amet consectetur adipiscing. Dui id ornare arcu odio ut sem nulla pharetra. Diam maecenas sed enim ut sem viverra aliquet eget. Et tortor consequat id porta nibh. Aliquet nec ullamcorper sit amet risus nullam eget. Habitant morbi tristique senectus et netus et malesuada fames ac. Platea dictumst quisque sagittis purus sit amet. Duis convallis convallis tellus id interdum velit laoreet. Consectetur purus ut faucibus pulvinar elementum. Euismod elementum nisi quis eleifend quam adipiscing vitae proin sagittis.
 
 Nisl purus in mollis nunc. Eget egestas purus viverra accumsan in. Eu facilisis sed odio morbi. Turpis egestas sed tempus urna et pharetra pharetra massa. Eget duis at tellus at urna condimentum mattis pellentesque id. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Lacus vel facilisis volutpat est velit egestas dui id. Adipiscing enim eu turpis egestas pretium. In fermentum posuere urna nec. Mauris in aliquam sem fringilla. Velit aliquet sagittis id consectetur purus ut faucibus pulvinar. Facilisis mauris sit amet massa vitae tortor. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Integer vitae justo eget magna fermentum iaculis eu.
+## Deep Reinforcement Learning
+---
+### Online Resources
+---
+* [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/#)
+---
 
+### Book Resources
+---
 # Data Cleaning
 ---
 
