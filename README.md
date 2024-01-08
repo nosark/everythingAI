@@ -83,6 +83,8 @@ Nisl purus in mollis nunc. Eget egestas purus viverra accumsan in. Eu facilisis 
 <a id="online-resources-1"></a>
 ### Online Resources
    * [FastAI Practical Deep Learning for Coders](https://course.fast.ai/)
+
+<a id="book-resources-1"></a>
 ### Book Resources
 
 ## Deep Reinforcement Learning
@@ -93,6 +95,7 @@ Nisl purus in mollis nunc. Eget egestas purus viverra accumsan in. Eu facilisis 
 * [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/#)
 ---
 
+<a id="book-resources-2"></a>
 ### Book Resources
 ---
 # Data Cleaning
