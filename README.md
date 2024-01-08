@@ -7,11 +7,11 @@ A collection of resources for gaining knowledge and expertise in AI/ML (WIP)
     * [How to use these resources](#How-to-use-these-resources)
 - [Machine Learning Foundations](#Machine-Learning-Foundations)
 - [Deep Learning](#Deep-Learning)
-   * [Online Resources](#Online-Resources-1)
-   * [Book Resources](#Book-Resources-1)
+   * [Online Resources](#Online-Resources-1)<a id="online-resources-1"></a>
+   * [Book Resources](#Book-Resources-1)<a id="book-resources-1"></a>
    * [Deep Reinforcement Learning](#Deep-Reinforcement-Learning)
-      * [Online Resources](#Online-Resources-2)
-      * [Book Resources](#Book-Resources-2)
+      * [Online Resources](#Online-Resources-2)<a id="online-resources-2"></a>
+      * [Book Resources](#Book-Resources-2)<a id="book-resources-2"></a>
 - [Data Cleaning](#Data-Cleaning)
 
 # Introduction
