@@ -27,7 +27,7 @@ Interdum velit euismod in pellentesque massa placerat. Mi proin sed libero enim 
 Nisl purus in mollis nunc. Eget egestas purus viverra accumsan in. Eu facilisis sed odio morbi. Turpis egestas sed tempus urna et pharetra pharetra massa. Eget duis at tellus at urna condimentum mattis pellentesque id. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Lacus vel facilisis volutpat est velit egestas dui id. Adipiscing enim eu turpis egestas pretium. In fermentum posuere urna nec. Mauris in aliquam sem fringilla. Velit aliquet sagittis id consectetur purus ut faucibus pulvinar. Facilisis mauris sit amet massa vitae tortor. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Integer vitae justo eget magna fermentum iaculis eu.
 ---
 
-### Who this is for
+### Who is this for
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla aliquet enim tortor at. Semper feugiat nibh sed pulvinar proin gravida hendrerit. Leo vel fringilla est ullamcorper eget. Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Auctor augue mauris augue neque gravida in. Lectus mauris ultrices eros in cursus turpis. Adipiscing elit pellentesque habitant morbi. Congue mauris rhoncus aenean vel elit scelerisque. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.
