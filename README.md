@@ -1,11 +1,16 @@
 # everythingAI
-A collection of resources for gaining knowledge in AI/ML (WIP)
+A collection of resources for gaining knowledge and expertise in AI/ML (WIP)
 
 - [Introduction](#Introduction)
     * [Who this is for](#Who-is-this-for)
     * [How to use these resources](#How-to-use-these-resources)
 - [Machine Learning Foundations](#Machine-Learning-Foundations)
 - [Deep Learning](#Deep-Learning)
+   * [Deep Reinforcement Learning](#Deep-Reinforcement-Learning)
+      * [Online Resources](#Deep-Learning-Online-Resources)
+         * [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/#)
+      * [Book Resources](#Deep-Learning-Book-Resources)
+- [Data Cleaning](#Data-Cleaning)
 
 # Introduction
 ---
