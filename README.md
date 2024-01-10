@@ -1,4 +1,4 @@
-# everythingAI
+# Everything AI!
 A collection of resources for gaining knowledge and expertise in AI/ML (WIP)
 
 #### Table of Contents
@@ -6,6 +6,7 @@ A collection of resources for gaining knowledge and expertise in AI/ML (WIP)
     * [Who is this for](#Who-is-this-for)
     * [How to use these resources](#How-to-use-these-resources)
 - [Machine Learning Foundations](#Machine-Learning-Foundations)
+   * [Online Resources](#Online-Resources-3)
 - [Deep Learning](#Deep-Learning)
    * [Online Resources](#Online-Resources-1)
    * [Book Resources](#Book-Resources-1)
@@ -57,6 +58,12 @@ Nisl purus in mollis nunc. Eget egestas purus viverra accumsan in. Eu facilisis 
 # Machine Learning Foundations
 ---
 
+<a id="online-resources-3"></a>
+### Online Resources
+   * [Kaggle Learn](https://www.kaggle.com/learn)
+     Kaggle Learn has a bunch of material available to dip your toes into Machine Learning, as well as the courses to build the necessary skills to become proficient in ML.
+
+     
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla aliquet enim tortor at. Semper feugiat nibh sed pulvinar proin gravida hendrerit. Leo vel fringilla est ullamcorper eget. Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Auctor augue mauris augue neque gravida in. Lectus mauris ultrices eros in cursus turpis. Adipiscing elit pellentesque habitant morbi. Congue mauris rhoncus aenean vel elit scelerisque. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.
 
 Mauris sit amet massa vitae tortor condimentum lacinia. Leo vel orci porta non pulvinar neque laoreet. Dui faucibus in ornare quam viverra. Purus ut faucibus pulvinar elementum integer enim neque volutpat ac. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus. Nunc sed velit dignissim sodales. Lectus mauris ultrices eros in cursus turpis massa. Massa enim nec dui nunc mattis enim ut tellus. Tellus integer feugiat scelerisque varius morbi enim. Mauris pharetra et ultrices neque ornare aenean euismod. Nulla pellentesque dignissim enim sit. Vitae proin sagittis nisl rhoncus mattis rhoncus urna. Diam quis enim lobortis scelerisque. Sapien et ligula ullamcorper malesuada. Massa sed elementum tempus egestas sed sed risus. Id velit ut tortor pretium viverra suspendisse.
