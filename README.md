@@ -7,6 +7,7 @@ A collection of resources for gaining knowledge and expertise in AI/ML (WIP)
     * [How to use these resources](#How-to-use-these-resources)
 - [Machine Learning Foundations](#Machine-Learning-Foundations)
    * [Online Resources](#Online-Resources-3)
+   * [Book Resources](#Book-Resources-3)
 - [Deep Learning](#Deep-Learning)
    * [Online Resources](#Online-Resources-1)
    * [Book Resources](#Book-Resources-1)
@@ -58,6 +59,10 @@ Nisl purus in mollis nunc. Eget egestas purus viverra accumsan in. Eu facilisis 
 # Machine Learning Foundations
 ---
 
+<a id="book-resources-3"></a>
+### Book Resources
+   * [Hands On Machine Learning](https://a.co/d/bsn41Ja)
+   * [Mathematics for Machine Learning](https://a.co/d/5Xdnupp)
 <a id="online-resources-3"></a>
 ### Online Resources
    * [Kaggle Learn](https://www.kaggle.com/learn)
