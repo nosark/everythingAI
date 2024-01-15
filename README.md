@@ -6,6 +6,8 @@ A collection of resources for gaining knowledge and expertise in AI/ML (WIP)
     * [Who is this for](#Who-is-this-for)
     * [How to use these resources](#How-to-use-these-resources)
 - [Machine Learning Foundations](#Machine-Learning-Foundations)
+
+   * [Editors and Notebooks](#editors-and-notebooks)
    * [Online Resources](#Online-Resources-3)
    * [Book Resources](#Book-Resources-3)
 - [Deep Learning](#Deep-Learning)
@@ -58,6 +60,14 @@ Nisl purus in mollis nunc. Eget egestas purus viverra accumsan in. Eu facilisis 
 
 # Machine Learning Foundations
 ---
+
+### Editors and Notebooks
+   * [Kaggle Notebooks](https://www.kaggle.com/docs/notebooks)
+   * [Google Colab](https://colab.google/)
+   * [Jupyter Notebooks](https://jupyter.org/)
+   * Neovim Setup
+   * Vscode
+   * Pycharm
 
 <a id="book-resources-3"></a>
 ### Book Resources
