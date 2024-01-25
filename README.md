@@ -107,6 +107,7 @@ Nisl purus in mollis nunc. Eget egestas purus viverra accumsan in. Eu facilisis 
 <a id="online-resources-1"></a>
 ### Online Resources
    * [FastAI Practical Deep Learning for Coders](https://course.fast.ai/)
+   * [HuggingFace Learn](https://huggingface.co/learn)
 
 <a id="book-resources-1"></a>
 ### Book Resources
