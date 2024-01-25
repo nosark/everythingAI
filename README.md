@@ -73,6 +73,8 @@ Nisl purus in mollis nunc. Eget egestas purus viverra accumsan in. Eu facilisis 
 ### Book Resources
    * [Hands On Machine Learning](https://a.co/d/bsn41Ja)
    * [Mathematics for Machine Learning](https://a.co/d/5Xdnupp)
+   * [An Introduction To Statistical Learning](https://www.statlearning.com/)
+
 <a id="online-resources-3"></a>
 ### Online Resources
    * [Kaggle Learn](https://www.kaggle.com/learn)
