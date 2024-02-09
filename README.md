@@ -74,6 +74,7 @@ Nisl purus in mollis nunc. Eget egestas purus viverra accumsan in. Eu facilisis 
    * [Hands On Machine Learning](https://a.co/d/bsn41Ja)
    * [Mathematics for Machine Learning](https://a.co/d/5Xdnupp)
    * [An Introduction To Statistical Learning](https://www.statlearning.com/)
+   * [Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
 
 <a id="online-resources-3"></a>
 ### Online Resources
